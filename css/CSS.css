@@ -1,0 +1,9 @@
+﻿h1 { background-color: lightgrey;}
+body { background-color: gainsboro}
+h1, p,table, ol, ul {font-family: arial;}
+h1 {font-size: 40px;}
+p, table, ol, ul {font-size: 20px;}
+tr:nth-child(even) {background-color:darkkhaki;}
+#w3 {color:red;}
+#cod {color:red;}
+#ap {color:red;}
